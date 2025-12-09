@@ -19,6 +19,10 @@
   ],
   "author": "Egyptian Ratscrew Game Developer",
   "license": "MIT",
+  "engines": {
+    "node": ">=18.0.0",
+    "npm": ">=9.0.0"
+  },
   "devDependencies": {
     "@types/node": "^20.19.25",
     "copy-webpack-plugin": "^11.0.0",
